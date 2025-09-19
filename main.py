@@ -50,7 +50,6 @@ def main():
             option = ask_option()
             confirm_option(option)
 
-
 if __name__ == "__main__":
     main()
 
